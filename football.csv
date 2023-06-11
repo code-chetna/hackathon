@@ -1,0 +1,761 @@
+date,home_team
+05-08-2022,Crystal Palace
+13-08-2022,Arsenal
+20-08-2022,Bournemouth
+27-08-2022,Arsenal
+31-08-2022,Arsenal
+04-09-2022,Man United
+18-09-2022,Brentford
+01-10-2022,Arsenal
+09-10-2022,Arsenal
+16-10-2022,Leeds
+23-10-2022,Southampton
+30-10-2022,Arsenal
+06-11-2022,Chelsea
+12-11-2022,Wolves
+26-12-2022,Arsenal
+31-12-2022,Brighton
+03-01-2023,Arsenal
+15-01-2023,Tottenham
+22-01-2023,Arsenal
+04-02-2023,Everton
+11-02-2023,Arsenal
+15-02-2023,Arsenal
+18-02-2023,Aston Villa
+25-02-2023,Leicester
+01-03-2023,Arsenal
+04-03-2023,Arsenal
+12-03-2023,Fulham
+19-03-2023,Arsenal
+01-04-2023,Arsenal
+09-04-2023,Liverpool
+16-04-2023,West Ham
+21-04-2023,Arsenal
+26-04-2023,Man City
+02-05-2023,Arsenal
+07-05-2023,Newcastle
+14-05-2023,Arsenal
+20-05-2023,Nott'm Forest
+28-05-2023,Arsenal
+06-08-2022,Bournemouth
+13-08-2022,Aston Villa
+20-08-2022,Crystal Palace
+28-08-2022,Aston Villa
+31-08-2022,Arsenal
+03-09-2022,Aston Villa
+16-09-2022,Aston Villa
+02-10-2022,Leeds
+10-10-2022,Nott'm Forest
+16-10-2022,Aston Villa
+20-10-2022,Fulham
+23-10-2022,Aston Villa
+29-10-2022,Newcastle
+06-11-2022,Aston Villa
+13-11-2022,Brighton
+26-12-2022,Aston Villa
+01-01-2023,Tottenham
+04-01-2023,Aston Villa
+13-01-2023,Aston Villa
+21-01-2023,Southampton
+04-02-2023,Aston Villa
+12-02-2023,Man City
+18-02-2023,Aston Villa
+25-02-2023,Everton
+04-03-2023,Aston Villa
+12-03-2023,West Ham
+18-03-2023,Aston Villa
+01-04-2023,Chelsea
+04-04-2023,Leicester
+08-04-2023,Aston Villa
+15-04-2023,Aston Villa
+22-04-2023,Brentford
+25-04-2023,Aston Villa
+30-04-2023,Man United
+06-05-2023,Wolves
+13-05-2023,Aston Villa
+20-05-2023,Liverpool
+28-05-2023,Aston Villa
+06-08-2022,Bournemouth
+13-08-2022,Man City
+20-08-2022,Bournemouth
+27-08-2022,Liverpool
+31-08-2022,Bournemouth
+03-09-2022,Nott'm Forest
+17-09-2022,Newcastle
+01-10-2022,Bournemouth
+08-10-2022,Bournemouth
+15-10-2022,Fulham
+19-10-2022,Bournemouth
+24-10-2022,West Ham
+29-10-2022,Bournemouth
+05-11-2022,Leeds
+12-11-2022,Bournemouth
+27-12-2022,Chelsea
+31-12-2022,Bournemouth
+03-01-2023,Man United
+14-01-2023,Brentford
+21-01-2023,Bournemouth
+04-02-2023,Brighton
+11-02-2023,Bournemouth
+18-02-2023,Wolves
+25-02-2023,Bournemouth
+04-03-2023,Arsenal
+11-03-2023,Bournemouth
+18-03-2023,Aston Villa
+01-04-2023,Bournemouth
+04-04-2023,Bournemouth
+08-04-2023,Leicester
+15-04-2023,Tottenham
+23-04-2023,Bournemouth
+27-04-2023,Southampton
+30-04-2023,Bournemouth
+06-05-2023,Bournemouth
+13-05-2023,Crystal Palace
+20-05-2023,Bournemouth
+28-05-2023,Everton
+07-08-2022,Leicester
+13-08-2022,Brentford
+20-08-2022,Fulham
+27-08-2022,Brentford
+30-08-2022,Crystal Palace
+03-09-2022,Brentford
+18-09-2022,Brentford
+01-10-2022,Bournemouth
+08-10-2022,Newcastle
+14-10-2022,Brentford
+19-10-2022,Brentford
+23-10-2022,Aston Villa
+29-10-2022,Brentford
+05-11-2022,Nott'm Forest
+12-11-2022,Man City
+26-12-2022,Brentford
+30-12-2022,West Ham
+02-01-2023,Brentford
+14-01-2023,Brentford
+22-01-2023,Leeds
+04-02-2023,Brentford
+11-02-2023,Arsenal
+18-02-2023,Brentford
+06-03-2023,Brentford
+11-03-2023,Everton
+15-03-2023,Southampton
+18-03-2023,Brentford
+01-04-2023,Brighton
+05-04-2023,Man United
+08-04-2023,Brentford
+15-04-2023,Wolves
+22-04-2023,Brentford
+26-04-2023,Chelsea
+29-04-2023,Brentford
+06-05-2023,Liverpool
+14-05-2023,Brentford
+20-05-2023,Tottenham
+28-05-2023,Brentford
+07-08-2022,Man United
+13-08-2022,Brighton
+21-08-2022,West Ham
+27-08-2022,Brighton
+30-08-2022,Fulham
+04-09-2022,Brighton
+01-10-2022,Liverpool
+08-10-2022,Brighton
+14-10-2022,Brentford
+18-10-2022,Brighton
+22-10-2022,Man City
+29-10-2022,Brighton
+05-11-2022,Wolves
+13-11-2022,Brighton
+26-12-2022,Southampton
+31-12-2022,Brighton
+03-01-2023,Everton
+14-01-2023,Brighton
+21-01-2023,Leicester
+04-02-2023,Brighton
+11-02-2023,Crystal Palace
+18-02-2023,Brighton
+04-03-2023,Brighton
+11-03-2023,Leeds
+15-03-2023,Brighton
+01-04-2023,Brighton
+04-04-2023,Bournemouth
+08-04-2023,Tottenham
+15-04-2023,Chelsea
+26-04-2023,Nott'm Forest
+29-04-2023,Brighton
+04-05-2023,Brighton
+08-05-2023,Brighton
+14-05-2023,Arsenal
+18-05-2023,Newcastle
+21-05-2023,Brighton
+24-05-2023,Brighton
+28-05-2023,Aston Villa
+06-08-2022,Everton
+14-08-2022,Chelsea
+21-08-2022,Leeds
+27-08-2022,Chelsea
+30-08-2022,Southampton
+03-09-2022,Chelsea
+01-10-2022,Crystal Palace
+08-10-2022,Chelsea
+16-10-2022,Aston Villa
+19-10-2022,Brentford
+22-10-2022,Chelsea
+29-10-2022,Brighton
+06-11-2022,Chelsea
+12-11-2022,Newcastle
+27-12-2022,Chelsea
+01-01-2023,Nott'm Forest
+05-01-2023,Chelsea
+12-01-2023,Fulham
+15-01-2023,Chelsea
+21-01-2023,Liverpool
+03-02-2023,Chelsea
+11-02-2023,West Ham
+18-02-2023,Chelsea
+26-02-2023,Tottenham
+04-03-2023,Chelsea
+11-03-2023,Leicester
+18-03-2023,Chelsea
+01-04-2023,Chelsea
+04-04-2023,Chelsea
+08-04-2023,Wolves
+15-04-2023,Chelsea
+26-04-2023,Chelsea
+02-05-2023,Arsenal
+06-05-2023,Bournemouth
+13-05-2023,Chelsea
+21-05-2023,Man City
+25-05-2023,Man United
+28-05-2023,Chelsea
+05-08-2022,Crystal Palace
+15-08-2022,Liverpool
+20-08-2022,Crystal Palace
+27-08-2022,Man City
+30-08-2022,Crystal Palace
+03-09-2022,Newcastle
+01-10-2022,Crystal Palace
+09-10-2022,Crystal Palace
+15-10-2022,Leicester
+18-10-2022,Crystal Palace
+22-10-2022,Everton
+29-10-2022,Crystal Palace
+06-11-2022,West Ham
+12-11-2022,Nott'm Forest
+26-12-2022,Crystal Palace
+31-12-2022,Bournemouth
+04-01-2023,Crystal Palace
+15-01-2023,Chelsea
+18-01-2023,Crystal Palace
+21-01-2023,Crystal Palace
+04-02-2023,Man United
+11-02-2023,Crystal Palace
+18-02-2023,Brentford
+25-02-2023,Crystal Palace
+04-03-2023,Aston Villa
+11-03-2023,Crystal Palace
+15-03-2023,Brighton
+19-03-2023,Arsenal
+01-04-2023,Crystal Palace
+09-04-2023,Leeds
+15-04-2023,Southampton
+22-04-2023,Crystal Palace
+25-04-2023,Wolves
+29-04-2023,Crystal Palace
+06-05-2023,Tottenham
+13-05-2023,Crystal Palace
+20-05-2023,Fulham
+28-05-2023,Crystal Palace
+06-08-2022,Everton
+13-08-2022,Aston Villa
+20-08-2022,Everton
+27-08-2022,Brentford
+30-08-2022,Leeds
+03-09-2022,Everton
+18-09-2022,Everton
+01-10-2022,Southampton
+09-10-2022,Everton
+15-10-2022,Tottenham
+19-10-2022,Newcastle
+22-10-2022,Everton
+29-10-2022,Fulham
+05-11-2022,Everton
+12-11-2022,Bournemouth
+26-12-2022,Everton
+31-12-2022,Man City
+03-01-2023,Everton
+14-01-2023,Everton
+21-01-2023,West Ham
+04-02-2023,Everton
+13-02-2023,Liverpool
+18-02-2023,Everton
+25-02-2023,Everton
+01-03-2023,Arsenal
+05-03-2023,Nott'm Forest
+11-03-2023,Everton
+18-03-2023,Chelsea
+03-04-2023,Everton
+08-04-2023,Man United
+15-04-2023,Everton
+22-04-2023,Crystal Palace
+27-04-2023,Everton
+01-05-2023,Leicester
+08-05-2023,Brighton
+14-05-2023,Everton
+20-05-2023,Wolves
+28-05-2023,Everton
+06-08-2022,Fulham
+13-08-2022,Wolves
+20-08-2022,Fulham
+27-08-2022,Arsenal
+30-08-2022,Fulham
+03-09-2022,Tottenham
+16-09-2022,Nott'm Forest
+01-10-2022,Fulham
+09-10-2022,West Ham
+15-10-2022,Fulham
+20-10-2022,Fulham
+23-10-2022,Leeds
+29-10-2022,Fulham
+05-11-2022,Man City
+13-11-2022,Fulham
+26-12-2022,Crystal Palace
+31-12-2022,Fulham
+03-01-2023,Leicester
+12-01-2023,Fulham
+15-01-2023,Newcastle
+23-01-2023,Fulham
+03-02-2023,Chelsea
+11-02-2023,Fulham
+18-02-2023,Brighton
+24-02-2023,Fulham
+06-03-2023,Brentford
+12-03-2023,Fulham
+01-04-2023,Bournemouth
+08-04-2023,Fulham
+15-04-2023,Everton
+22-04-2023,Fulham
+25-04-2023,Aston Villa
+30-04-2023,Fulham
+03-05-2023,Liverpool
+08-05-2023,Fulham
+13-05-2023,Southampton
+20-05-2023,Fulham
+28-05-2023,Man United
+06-08-2022,Leeds
+13-08-2022,Southampton
+21-08-2022,Leeds
+27-08-2022,Brighton
+30-08-2022,Leeds
+03-09-2022,Brentford
+02-10-2022,Leeds
+09-10-2022,Crystal Palace
+16-10-2022,Leeds
+20-10-2022,Leicester
+23-10-2022,Leeds
+29-10-2022,Liverpool
+05-11-2022,Leeds
+12-11-2022,Tottenham
+28-12-2022,Leeds
+31-12-2022,Newcastle
+04-01-2023,Leeds
+13-01-2023,Aston Villa
+22-01-2023,Leeds
+05-02-2023,Nott'm Forest
+08-02-2023,Man United
+12-02-2023,Leeds
+18-02-2023,Everton
+25-02-2023,Leeds
+04-03-2023,Chelsea
+11-03-2023,Leeds
+18-03-2023,Wolves
+01-04-2023,Arsenal
+04-04-2023,Leeds
+09-04-2023,Leeds
+17-04-2023,Leeds
+22-04-2023,Fulham
+25-04-2023,Leeds
+30-04-2023,Bournemouth
+06-05-2023,Man City
+13-05-2023,Leeds
+21-05-2023,West Ham
+28-05-2023,Leeds
+07-08-2022,Leicester
+13-08-2022,Arsenal
+20-08-2022,Leicester
+27-08-2022,Chelsea
+01-09-2022,Leicester
+04-09-2022,Brighton
+17-09-2022,Tottenham
+03-10-2022,Leicester
+08-10-2022,Bournemouth
+15-10-2022,Leicester
+20-10-2022,Leicester
+23-10-2022,Wolves
+29-10-2022,Leicester
+05-11-2022,Everton
+12-11-2022,West Ham
+26-12-2022,Leicester
+30-12-2022,Liverpool
+03-01-2023,Leicester
+14-01-2023,Nott'm Forest
+21-01-2023,Leicester
+04-02-2023,Aston Villa
+11-02-2023,Leicester
+19-02-2023,Man United
+25-02-2023,Leicester
+04-03-2023,Southampton
+11-03-2023,Leicester
+18-03-2023,Brentford
+01-04-2023,Crystal Palace
+04-04-2023,Leicester
+08-04-2023,Leicester
+15-04-2023,Man City
+22-04-2023,Leicester
+25-04-2023,Leeds
+01-05-2023,Leicester
+08-05-2023,Fulham
+15-05-2023,Leicester
+22-05-2023,Newcastle
+28-05-2023,Leicester
+06-08-2022,Fulham
+15-08-2022,Liverpool
+22-08-2022,Man United
+27-08-2022,Liverpool
+31-08-2022,Liverpool
+03-09-2022,Everton
+01-10-2022,Liverpool
+09-10-2022,Arsenal
+16-10-2022,Liverpool
+19-10-2022,Liverpool
+22-10-2022,Nott'm Forest
+29-10-2022,Liverpool
+06-11-2022,Tottenham
+12-11-2022,Liverpool
+26-12-2022,Aston Villa
+30-12-2022,Liverpool
+02-01-2023,Brentford
+14-01-2023,Brighton
+21-01-2023,Liverpool
+04-02-2023,Wolves
+13-02-2023,Liverpool
+18-02-2023,Newcastle
+25-02-2023,Crystal Palace
+01-03-2023,Liverpool
+05-03-2023,Liverpool
+11-03-2023,Bournemouth
+01-04-2023,Man City
+04-04-2023,Chelsea
+09-04-2023,Liverpool
+17-04-2023,Leeds
+22-04-2023,Liverpool
+26-04-2023,West Ham
+30-04-2023,Liverpool
+03-05-2023,Liverpool
+06-05-2023,Liverpool
+15-05-2023,Leicester
+20-05-2023,Liverpool
+28-05-2023,Southampton
+07-08-2022,West Ham
+13-08-2022,Man City
+21-08-2022,Newcastle
+27-08-2022,Man City
+31-08-2022,Man City
+03-09-2022,Aston Villa
+17-09-2022,Wolves
+02-10-2022,Man City
+08-10-2022,Man City
+16-10-2022,Liverpool
+22-10-2022,Man City
+29-10-2022,Leicester
+05-11-2022,Man City
+12-11-2022,Man City
+28-12-2022,Leeds
+31-12-2022,Man City
+05-01-2023,Chelsea
+14-01-2023,Man United
+19-01-2023,Man City
+22-01-2023,Man City
+05-02-2023,Tottenham
+12-02-2023,Man City
+15-02-2023,Arsenal
+18-02-2023,Nott'm Forest
+25-02-2023,Bournemouth
+04-03-2023,Man City
+11-03-2023,Crystal Palace
+01-04-2023,Man City
+08-04-2023,Southampton
+15-04-2023,Man City
+26-04-2023,Man City
+30-04-2023,Fulham
+03-05-2023,Man City
+06-05-2023,Man City
+14-05-2023,Everton
+21-05-2023,Man City
+24-05-2023,Brighton
+28-05-2023,Brentford
+07-08-2022,Man United
+13-08-2022,Brentford
+22-08-2022,Man United
+27-08-2022,Southampton
+01-09-2022,Leicester
+04-09-2022,Man United
+02-10-2022,Man City
+09-10-2022,Everton
+16-10-2022,Man United
+19-10-2022,Man United
+22-10-2022,Chelsea
+30-10-2022,Man United
+06-11-2022,Aston Villa
+13-11-2022,Fulham
+27-12-2022,Man United
+31-12-2022,Wolves
+03-01-2023,Man United
+14-01-2023,Man United
+18-01-2023,Crystal Palace
+22-01-2023,Arsenal
+04-02-2023,Man United
+08-02-2023,Man United
+12-02-2023,Leeds
+19-02-2023,Man United
+05-03-2023,Liverpool
+12-03-2023,Man United
+02-04-2023,Newcastle
+05-04-2023,Man United
+08-04-2023,Man United
+16-04-2023,Nott'm Forest
+27-04-2023,Tottenham
+30-04-2023,Man United
+04-05-2023,Brighton
+07-05-2023,West Ham
+13-05-2023,Man United
+20-05-2023,Bournemouth
+25-05-2023,Man United
+28-05-2023,Man United
+06-08-2022,Newcastle
+13-08-2022,Brighton
+21-08-2022,Newcastle
+28-08-2022,Wolves
+31-08-2022,Liverpool
+03-09-2022,Newcastle
+17-09-2022,Newcastle
+01-10-2022,Fulham
+08-10-2022,Newcastle
+16-10-2022,Man United
+19-10-2022,Newcastle
+23-10-2022,Tottenham
+29-10-2022,Newcastle
+06-11-2022,Southampton
+12-11-2022,Newcastle
+26-12-2022,Leicester
+31-12-2022,Newcastle
+03-01-2023,Arsenal
+15-01-2023,Newcastle
+21-01-2023,Crystal Palace
+04-02-2023,Newcastle
+11-02-2023,Bournemouth
+18-02-2023,Newcastle
+04-03-2023,Man City
+12-03-2023,Newcastle
+17-03-2023,Nott'm Forest
+02-04-2023,Newcastle
+05-04-2023,West Ham
+08-04-2023,Brentford
+15-04-2023,Aston Villa
+23-04-2023,Newcastle
+27-04-2023,Everton
+30-04-2023,Newcastle
+07-05-2023,Newcastle
+13-05-2023,Leeds
+18-05-2023,Newcastle
+22-05-2023,Newcastle
+28-05-2023,Chelsea
+06-08-2022,Newcastle
+14-08-2022,Nott'm Forest
+20-08-2022,Everton
+28-08-2022,Nott'm Forest
+31-08-2022,Man City
+03-09-2022,Nott'm Forest
+16-09-2022,Nott'm Forest
+03-10-2022,Leicester
+10-10-2022,Nott'm Forest
+15-10-2022,Wolves
+18-10-2022,Brighton
+22-10-2022,Nott'm Forest
+30-10-2022,Arsenal
+05-11-2022,Nott'm Forest
+12-11-2022,Nott'm Forest
+27-12-2022,Man United
+01-01-2023,Nott'm Forest
+04-01-2023,Southampton
+14-01-2023,Nott'm Forest
+21-01-2023,Bournemouth
+05-02-2023,Nott'm Forest
+11-02-2023,Fulham
+18-02-2023,Nott'm Forest
+25-02-2023,West Ham
+05-03-2023,Nott'm Forest
+11-03-2023,Tottenham
+17-03-2023,Nott'm Forest
+01-04-2023,Nott'm Forest
+04-04-2023,Leeds
+08-04-2023,Aston Villa
+16-04-2023,Nott'm Forest
+22-04-2023,Liverpool
+26-04-2023,Nott'm Forest
+29-04-2023,Brentford
+08-05-2023,Nott'm Forest
+13-05-2023,Chelsea
+20-05-2023,Nott'm Forest
+28-05-2023,Crystal Palace
+06-08-2022,Tottenham
+13-08-2022,Southampton
+20-08-2022,Leicester
+27-08-2022,Southampton
+30-08-2022,Southampton
+03-09-2022,Wolves
+16-09-2022,Aston Villa
+01-10-2022,Southampton
+08-10-2022,Man City
+16-10-2022,Southampton
+19-10-2022,Bournemouth
+23-10-2022,Southampton
+29-10-2022,Crystal Palace
+06-11-2022,Southampton
+12-11-2022,Liverpool
+26-12-2022,Southampton
+31-12-2022,Fulham
+04-01-2023,Southampton
+14-01-2023,Everton
+21-01-2023,Southampton
+04-02-2023,Brentford
+11-02-2023,Southampton
+18-02-2023,Chelsea
+25-02-2023,Leeds
+04-03-2023,Southampton
+12-03-2023,Man United
+15-03-2023,Southampton
+18-03-2023,Southampton
+02-04-2023,West Ham
+08-04-2023,Southampton
+15-04-2023,Southampton
+21-04-2023,Arsenal
+27-04-2023,Southampton
+30-04-2023,Newcastle
+08-05-2023,Nott'm Forest
+13-05-2023,Southampton
+21-05-2023,Brighton
+28-05-2023,Southampton
+06-08-2022,Tottenham
+14-08-2022,Chelsea
+20-08-2022,Tottenham
+28-08-2022,Nott'm Forest
+31-08-2022,West Ham
+03-09-2022,Tottenham
+17-09-2022,Tottenham
+01-10-2022,Arsenal
+08-10-2022,Brighton
+15-10-2022,Tottenham
+19-10-2022,Man United
+23-10-2022,Tottenham
+29-10-2022,Bournemouth
+06-11-2022,Tottenham
+12-11-2022,Tottenham
+26-12-2022,Brentford
+01-01-2023,Tottenham
+04-01-2023,Crystal Palace
+15-01-2023,Tottenham
+19-01-2023,Man City
+23-01-2023,Fulham
+05-02-2023,Tottenham
+11-02-2023,Leicester
+19-02-2023,Tottenham
+26-02-2023,Tottenham
+04-03-2023,Wolves
+11-03-2023,Tottenham
+18-03-2023,Southampton
+03-04-2023,Everton
+08-04-2023,Tottenham
+15-04-2023,Tottenham
+23-04-2023,Newcastle
+27-04-2023,Tottenham
+30-04-2023,Liverpool
+06-05-2023,Tottenham
+13-05-2023,Aston Villa
+20-05-2023,Tottenham
+28-05-2023,Leeds
+07-08-2022,West Ham
+14-08-2022,Nott'm Forest
+21-08-2022,West Ham
+28-08-2022,Aston Villa
+31-08-2022,West Ham
+03-09-2022,Chelsea
+18-09-2022,Everton
+01-10-2022,West Ham
+09-10-2022,West Ham
+16-10-2022,Southampton
+19-10-2022,Liverpool
+24-10-2022,West Ham
+30-10-2022,Man United
+06-11-2022,West Ham
+12-11-2022,West Ham
+26-12-2022,Arsenal
+30-12-2022,West Ham
+04-01-2023,Leeds
+14-01-2023,Wolves
+21-01-2023,West Ham
+04-02-2023,Newcastle
+11-02-2023,West Ham
+19-02-2023,Tottenham
+25-02-2023,West Ham
+04-03-2023,Brighton
+12-03-2023,West Ham
+02-04-2023,West Ham
+05-04-2023,West Ham
+08-04-2023,Fulham
+16-04-2023,West Ham
+23-04-2023,Bournemouth
+26-04-2023,West Ham
+29-04-2023,Crystal Palace
+03-05-2023,Man City
+07-05-2023,West Ham
+14-05-2023,Brentford
+21-05-2023,West Ham
+28-05-2023,Leicester
+06-08-2022,Leeds
+13-08-2022,Wolves
+20-08-2022,Tottenham
+28-08-2022,Wolves
+31-08-2022,Bournemouth
+03-09-2022,Wolves
+17-09-2022,Wolves
+01-10-2022,West Ham
+08-10-2022,Chelsea
+15-10-2022,Wolves
+18-10-2022,Crystal Palace
+23-10-2022,Wolves
+29-10-2022,Brentford
+05-11-2022,Wolves
+12-11-2022,Wolves
+26-12-2022,Everton
+31-12-2022,Wolves
+04-01-2023,Aston Villa
+14-01-2023,Wolves
+22-01-2023,Man City
+04-02-2023,Wolves
+11-02-2023,Southampton
+18-02-2023,Wolves
+24-02-2023,Fulham
+01-03-2023,Liverpool
+04-03-2023,Wolves
+12-03-2023,Newcastle
+18-03-2023,Wolves
+01-04-2023,Nott'm Forest
+08-04-2023,Wolves
+15-04-2023,Wolves
+22-04-2023,Leicester
+25-04-2023,Wolves
+29-04-2023,Brighton
+06-05-2023,Wolves
+13-05-2023,Man United
+20-05-2023,Wolves
+28-05-2023,Arsenal
