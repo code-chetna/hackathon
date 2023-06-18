@@ -3,6 +3,53 @@
   <head>
     <title>Search Page</title>
     <link rel="stylesheet" href="style.css" />
+     <style>
+      /* Custom CSS styles */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f1f1f1;
+        padding: 20px;
+      }
+
+      .form {
+        margin-bottom: 20px;
+      }
+
+      .form input[type="text"] {
+        width: 300px;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+
+      .form input[type="submit"] {
+        background-color: #4caf50;
+        color: white;
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      .form input[type="submit"]:hover {
+        background-color: #45a049;
+      }
+
+      .results {
+        margin-top: 20px;
+      }
+
+      .results a {
+        color: #337ab7;
+        text-decoration: none;
+      }
+
+      .results p {
+        margin-bottom: 10px;
+      }
+    </style>
   </head>
   <body>
     <div class="form">
@@ -11,10 +58,12 @@
         form.submit() }}
       </form>
     </div>
-    <div>
+    <div class="results">
       {% for result in results %}
-      <a href="{{result['link']}}">click here</a>
-      <p>problem statement: {{ result['question name'] }}</p>
+      <div class="result-item">
+      <p>PROBLEM STATEMENT: {{ result['question name'] }}</p>
+        <a href="{{result['link']}}">CLICK ME TO OPEN THE QUESTION</a>
+      </div>
       {% endfor %}
     </div>
   </body>
