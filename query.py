@@ -1,4 +1,10 @@
 import math
+
+from flask import Flask, render_template
+from flask_wtf import FlaskForm
+from wtforms import StringField, SubmitField
+
+app = Flask(__name__)
 def load_links():
     links={}
     with open('Qdata/Qindex.txt','r') as f:
@@ -102,15 +108,35 @@ def calculate_sorted_order_of_documents(query_terms):
 
     potential_documents = dict(sorted(potential_documents.items(), key=lambda item: item[1], reverse=True))
 
-    for document_index in potential_documents:
+    #for document_index in potential_documents:
         #print('Document: ', documents[int(document_index)], ' Score: ', potential_documents[document_index])
-        print(string_merger(problems[int(document_index)]))
-        print('link:',links[int(document_index)])
+        #print(string_merger(problems[int(document_index)]))
+        #print('link:',links[int(document_index)])
+    results = []
+    for document_index in potential_documents:
+        results.append({"question name":string_merger(problems[int(document_index)]),"link":str(links[int(document_index)])[2:-2]})
+
+
+    return results[:10:]
 
 
 
-query_string = input('Enter your query: ')
-query_terms = [term.lower() for term in query_string.strip().split()]
+#query_string = input('Enter your query: ')
+#query_terms = [term.lower() for term in query_string.strip().split()]
 
-print(query_terms)
-calculate_sorted_order_of_documents(query_terms)
+#print(query_terms)
+#print(calculate_sorted_order_of_documents(query_terms))
+app.config['SECRET_KEY'] = 'your-secret-key'
+class SearchForm(FlaskForm):
+    search = StringField('Enter your search term')
+    submit = SubmitField('Search')
+
+@app.route("/", methods=['GET', 'POST'])
+def home():
+    form = SearchForm()
+    results = []
+    if form.validate_on_submit():
+        query = form.search.data
+        q_terms = [term.lower() for term in query.strip().split()]
+        results = calculate_sorted_order_of_documents(q_terms)[:20:]
+    return render_template('index.html', form=form, results=results)
